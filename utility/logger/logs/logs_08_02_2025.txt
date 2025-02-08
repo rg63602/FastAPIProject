@@ -1,0 +1,381 @@
+2025-02-08 13:42:23,156 - FastAPI_App - INFO - Initializing
+2025-02-08 13:42:54,319 - FastAPI_App - INFO - Initializing
+2025-02-08 13:46:23,146 - FastAPI_App - INFO - Root endpoint accessed
+2025-02-08 13:46:59,383 - FastAPI_App - ERROR - Error occurred: division by zero
+2025-02-08 14:13:14,580 - FastAPI_App - INFO - Initializing
+2025-02-08 14:40:25,405 - FastAPI_App - INFO - Initializing
+2025-02-08 14:41:29,554 - FastAPI_App - INFO - Initializing
+2025-02-08 14:43:53,893 - FastAPI_App - INFO - Initializing
+2025-02-08 14:44:30,733 - FastAPI_App - INFO - Initializing
+INFO - local - v1.0.0 - 2025-02-08 14:46:49,166 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 14:49:01,889 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 15:42:32,572 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 15:44:03,933 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 15:45:36,697 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 15:45:39,928 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 15:45:44,049 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 15:48:34,805 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 15:49:00,311 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 15:49:08,837 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 15:49:33,560 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 15:50:19,984 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 15:51:03,344 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 15:52:39,652 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 15:52:39,789 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 15:53:06,692 - Fetching users from the database
+INFO - local - v1.0.0 - 2025-02-08 15:54:50,764 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 15:54:50,814 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 15:55:01,394 - Fetching users from the database
+INFO - local - v1.0.0 - 2025-02-08 15:55:42,701 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 15:55:42,753 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 15:55:52,946 - Fetching users from the database
+INFO - local - v1.0.0 - 2025-02-08 15:57:34,359 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 15:57:34,412 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 15:57:47,968 - Fetching users from the database
+INFO - local - v1.0.0 - 2025-02-08 15:57:55,997 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 15:57:56,050 - Initializing
+ERROR - local - v1.0.0 - 2025-02-08 15:58:05,443 - Error occurred: division by zero
+INFO - local - v1.0.0 - 2025-02-08 15:58:14,385 - Root endpoint accessed
+INFO - local - v1.0.0 - 2025-02-08 15:58:38,562 - Fetching users from the database
+INFO - local - v1.0.0 - 2025-02-08 16:00:09,002 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 16:00:09,058 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 16:00:33,051 - Fetching users from the database
+INFO - local - v1.0.0 - 2025-02-08 16:03:13,709 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 16:03:13,760 - 
+INFO - local - v1.0.0 - 2025-02-08 16:03:13,760 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 16:03:45,592 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 16:03:45,642 - greenlet - 3.1.1
+INFO - local - v1.0.0 - 2025-02-08 16:03:45,643 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 16:04:45,918 - Fetching users from the database
+INFO - local - v1.0.0 - 2025-02-08 16:05:30,373 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 16:05:30,423 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 16:05:34,062 - Root endpoint accessed
+ERROR - local - v1.0.0 - 2025-02-08 16:05:40,918 - Error occurred: division by zero
+INFO - local - v1.0.0 - 2025-02-08 16:05:57,781 - Fetching users from the database
+INFO - local - v1.0.0 - 2025-02-08 16:08:48,669 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 16:08:48,720 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 16:09:02,154 - Fetching users from the database
+ERROR - local - v1.0.0 - 2025-02-08 16:09:28,892 - Database Error: 'coroutine' object has no attribute 'fetchall'
+INFO - local - v1.0.0 - 2025-02-08 16:11:17,837 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 16:11:17,893 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 16:19:00,067 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 16:19:00,123 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 16:19:24,459 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 16:19:24,510 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 16:20:53,982 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 16:20:54,034 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 16:23:26,391 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 16:23:26,449 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 16:27:02,554 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 16:27:02,612 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 16:30:25,003 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 16:30:25,069 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 16:30:52,176 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 16:30:52,238 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 16:33:04,865 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 16:33:04,923 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 16:35:05,343 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 16:35:05,400 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 16:35:39,571 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 16:35:39,622 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 16:35:51,341 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 16:35:51,398 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 16:37:12,759 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 16:37:12,815 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 16:38:56,693 - Creating new Database Connection...
+INFO - local - v1.0.0 - 2025-02-08 16:38:56,746 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 16:42:13,964 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 16:43:04,905 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 16:43:35,123 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 16:44:41,082 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 16:46:13,477 - Initializing
+INFO - local - v1.0.0 - 2025-02-08 16:51:52,848 - Starting FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 16:52:46,776 - Starting FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 16:53:30,034 - Starting FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 16:53:30,110 - Database connection successful!
+INFO - local - v1.0.0 - 2025-02-08 17:01:10,656 - Shutting down FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:01:48,104 - Starting FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:01:48,182 - Database connection successful!
+INFO - local - v1.0.0 - 2025-02-08 17:02:02,117 - Fetching all users from the database...
+ERROR - local - v1.0.0 - 2025-02-08 17:02:21,753 - Error fetching users: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedTableError'>: relation "users" does not exist
+[SQL: SELECT users.id, users.user_name, users.email, users.created_by, users.created_at, users.updated_by, users.updated_at 
+FROM users]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+ERROR - local - v1.0.0 - 2025-02-08 17:02:21,755 - Failed to fetch users: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedTableError'>: relation "users" does not exist
+[SQL: SELECT users.id, users.user_name, users.email, users.created_by, users.created_at, users.updated_by, users.updated_at 
+FROM users]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+ERROR - local - v1.0.0 - 2025-02-08 17:02:26,628 - Database Error: 500: Internal Server Error
+INFO - local - v1.0.0 - 2025-02-08 17:02:26,746 - Shutting down FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:03:27,676 - Starting FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:03:27,723 - Database connection successful!
+INFO - local - v1.0.0 - 2025-02-08 17:03:27,724 - Fetching all users from the database...
+ERROR - local - v1.0.0 - 2025-02-08 17:03:27,728 - Error fetching users: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedTableError'>: relation "users" does not exist
+[SQL: SELECT users.id, users.user_name, users.email, users.created_by, users.created_at, users.updated_by, users.updated_at 
+FROM users]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+ERROR - local - v1.0.0 - 2025-02-08 17:03:27,729 - Failed to fetch users: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedTableError'>: relation "users" does not exist
+[SQL: SELECT users.id, users.user_name, users.email, users.created_by, users.created_at, users.updated_by, users.updated_at 
+FROM users]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+ERROR - local - v1.0.0 - 2025-02-08 17:03:27,729 - Database Error: 500: Internal Server Error
+INFO - local - v1.0.0 - 2025-02-08 17:08:29,830 - Shutting down FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:08:32,390 - Starting FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:08:32,468 - Database connection successful!
+INFO - local - v1.0.0 - 2025-02-08 17:08:54,077 - Fetching all users from the database...
+ERROR - local - v1.0.0 - 2025-02-08 17:08:54,093 - Error fetching users: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedTableError'>: relation "pgalchemy.users" does not exist
+[SQL: SELECT "pgalchemy.users".id, "pgalchemy.users".user_name, "pgalchemy.users".email, "pgalchemy.users".created_by, "pgalchemy.users".created_at, "pgalchemy.users".updated_by, "pgalchemy.users".updated_at 
+FROM "pgalchemy.users"]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+ERROR - local - v1.0.0 - 2025-02-08 17:08:54,093 - Failed to fetch users: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedTableError'>: relation "pgalchemy.users" does not exist
+[SQL: SELECT "pgalchemy.users".id, "pgalchemy.users".user_name, "pgalchemy.users".email, "pgalchemy.users".created_by, "pgalchemy.users".created_at, "pgalchemy.users".updated_by, "pgalchemy.users".updated_at 
+FROM "pgalchemy.users"]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+ERROR - local - v1.0.0 - 2025-02-08 17:08:54,094 - Database Error: 500: Internal Server Error
+INFO - local - v1.0.0 - 2025-02-08 17:09:45,514 - Shutting down FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:09:47,940 - Starting FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:11:41,570 - Starting FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:11:41,692 - Database connection successful!
+INFO - local - v1.0.0 - 2025-02-08 17:12:36,933 - Fetching all users from the database...
+ERROR - local - v1.0.0 - 2025-02-08 17:12:37,005 - Error fetching users: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedTableError'>: relation "users" does not exist
+[SQL: SELECT users.id, users.user_name, users.email, users.created_by, users.created_at, users.updated_by, users.updated_at 
+FROM users]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+ERROR - local - v1.0.0 - 2025-02-08 17:12:37,006 - Failed to fetch users: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedTableError'>: relation "users" does not exist
+[SQL: SELECT users.id, users.user_name, users.email, users.created_by, users.created_at, users.updated_by, users.updated_at 
+FROM users]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+ERROR - local - v1.0.0 - 2025-02-08 17:12:37,006 - Database Error: 500: Internal Server Error
+INFO - local - v1.0.0 - 2025-02-08 17:15:11,737 - Shutting down FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:15:14,218 - Starting FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:15:14,283 - Database connection successful!
+INFO - local - v1.0.0 - 2025-02-08 17:15:14,473 - Fetching all users from the database...
+ERROR - local - v1.0.0 - 2025-02-08 17:15:14,488 - Error fetching users: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedTableError'>: relation "users" does not exist
+[SQL: SELECT users.id, users.user_name, users.email, users.created_by, users.created_at, users.updated_by, users.updated_at 
+FROM users]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+ERROR - local - v1.0.0 - 2025-02-08 17:15:14,488 - Failed to fetch users: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedTableError'>: relation "users" does not exist
+[SQL: SELECT users.id, users.user_name, users.email, users.created_by, users.created_at, users.updated_by, users.updated_at 
+FROM users]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+ERROR - local - v1.0.0 - 2025-02-08 17:15:14,488 - Database Error: 500: Internal Server Error
+INFO - local - v1.0.0 - 2025-02-08 17:15:24,697 - Shutting down FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:15:36,906 - Starting FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:15:36,958 - Database connection successful!
+INFO - local - v1.0.0 - 2025-02-08 17:15:41,060 - Fetching all users from the database...
+ERROR - local - v1.0.0 - 2025-02-08 17:15:41,080 - Error fetching users: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedTableError'>: relation "users" does not exist
+[SQL: SELECT users.id, users.user_name, users.email, users.created_by, users.created_at, users.updated_by, users.updated_at 
+FROM users]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+ERROR - local - v1.0.0 - 2025-02-08 17:15:41,080 - Failed to fetch users: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedTableError'>: relation "users" does not exist
+[SQL: SELECT users.id, users.user_name, users.email, users.created_by, users.created_at, users.updated_by, users.updated_at 
+FROM users]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+ERROR - local - v1.0.0 - 2025-02-08 17:15:41,081 - Database Error: 500: Internal Server Error
+INFO - local - v1.0.0 - 2025-02-08 17:18:43,832 - Shutting down FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:18:53,444 - Starting FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:18:53,588 - Database connection successful!
+INFO - local - v1.0.0 - 2025-02-08 17:19:02,762 - Fetching all users from the database...
+ERROR - local - v1.0.0 - 2025-02-08 17:19:37,442 - Error fetching users: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedTableError'>: relation "users" does not exist
+[SQL: SELECT users.id, users.user_name, users.email, users.created_by, users.created_at, users.updated_by, users.updated_at 
+FROM users]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+ERROR - local - v1.0.0 - 2025-02-08 17:19:37,445 - Failed to fetch users: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedTableError'>: relation "users" does not exist
+[SQL: SELECT users.id, users.user_name, users.email, users.created_by, users.created_at, users.updated_by, users.updated_at 
+FROM users]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+ERROR - local - v1.0.0 - 2025-02-08 17:19:37,446 - Database Error: 500: Internal Server Error
+INFO - local - v1.0.0 - 2025-02-08 17:21:32,821 - Shutting down FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:21:35,386 - Starting FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:21:35,458 - Database connection successful!
+INFO - local - v1.0.0 - 2025-02-08 17:21:40,861 - Fetching all users from the database...
+ERROR - local - v1.0.0 - 2025-02-08 17:21:40,896 - Failed to fetch users: 404: No users found
+ERROR - local - v1.0.0 - 2025-02-08 17:21:40,896 - Database Error: 500: Internal Server Error
+INFO - local - v1.0.0 - 2025-02-08 17:23:03,773 - Shutting down FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:23:06,774 - Starting FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:23:06,849 - Database connection successful!
+INFO - local - v1.0.0 - 2025-02-08 17:24:52,063 - Fetching all users from the database...
+ERROR - local - v1.0.0 - 2025-02-08 17:24:52,121 - Database Error: 15 validation errors:
+  {'type': 'model_attributes_type', 'loc': ('response', 0), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'Actor'}
+  {'type': 'model_attributes_type', 'loc': ('response', 1), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'actors'}
+  {'type': 'model_attributes_type', 'loc': ('response', 2), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'artist'}
+  {'type': 'model_attributes_type', 'loc': ('response', 3), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'foo'}
+  {'type': 'model_attributes_type', 'loc': ('response', 4), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'genre'}
+  {'type': 'model_attributes_type', 'loc': ('response', 5), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'mediatype'}
+  {'type': 'model_attributes_type', 'loc': ('response', 6), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'playlist'}
+  {'type': 'model_attributes_type', 'loc': ('response', 7), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'sqlite_schema'}
+  {'type': 'model_attributes_type', 'loc': ('response', 8), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'album'}
+  {'type': 'model_attributes_type', 'loc': ('response', 9), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'employee'}
+  {'type': 'model_attributes_type', 'loc': ('response', 10), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'track'}
+  {'type': 'model_attributes_type', 'loc': ('response', 11), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'customer'}
+  {'type': 'model_attributes_type', 'loc': ('response', 12), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'invoice'}
+  {'type': 'model_attributes_type', 'loc': ('response', 13), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'invoiceline'}
+  {'type': 'model_attributes_type', 'loc': ('response', 14), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'playlisttrack'}
+
+INFO - local - v1.0.0 - 2025-02-08 17:25:27,555 - Shutting down FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:25:30,779 - Starting FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:25:30,824 - Database connection successful!
+INFO - local - v1.0.0 - 2025-02-08 17:25:34,102 - Fetching all users from the database...
+ERROR - local - v1.0.0 - 2025-02-08 17:26:47,647 - Database Error: 15 validation errors:
+  {'type': 'model_attributes_type', 'loc': ('response', 0), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'Actor'}
+  {'type': 'model_attributes_type', 'loc': ('response', 1), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'actors'}
+  {'type': 'model_attributes_type', 'loc': ('response', 2), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'artist'}
+  {'type': 'model_attributes_type', 'loc': ('response', 3), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'foo'}
+  {'type': 'model_attributes_type', 'loc': ('response', 4), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'genre'}
+  {'type': 'model_attributes_type', 'loc': ('response', 5), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'mediatype'}
+  {'type': 'model_attributes_type', 'loc': ('response', 6), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'playlist'}
+  {'type': 'model_attributes_type', 'loc': ('response', 7), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'sqlite_schema'}
+  {'type': 'model_attributes_type', 'loc': ('response', 8), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'album'}
+  {'type': 'model_attributes_type', 'loc': ('response', 9), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'employee'}
+  {'type': 'model_attributes_type', 'loc': ('response', 10), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'track'}
+  {'type': 'model_attributes_type', 'loc': ('response', 11), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'customer'}
+  {'type': 'model_attributes_type', 'loc': ('response', 12), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'invoice'}
+  {'type': 'model_attributes_type', 'loc': ('response', 13), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'invoiceline'}
+  {'type': 'model_attributes_type', 'loc': ('response', 14), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': 'playlisttrack'}
+
+INFO - local - v1.0.0 - 2025-02-08 17:26:49,473 - Shutting down FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:26:51,930 - Starting FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:26:51,983 - Database connection successful!
+INFO - local - v1.0.0 - 2025-02-08 17:27:00,025 - Fetching all users from the database...
+ERROR - local - v1.0.0 - 2025-02-08 17:29:31,643 - Failed to fetch users: 404: No users found
+ERROR - local - v1.0.0 - 2025-02-08 17:29:35,621 - Database Error: 500: Internal Server Error
+INFO - local - v1.0.0 - 2025-02-08 17:29:41,394 - Fetching all users from the database...
+ERROR - local - v1.0.0 - 2025-02-08 17:30:19,659 - Failed to fetch users: 404: No users found
+ERROR - local - v1.0.0 - 2025-02-08 17:30:21,270 - Database Error: 500: Internal Server Error
+INFO - local - v1.0.0 - 2025-02-08 17:30:31,969 - Fetching all users from the database...
+ERROR - local - v1.0.0 - 2025-02-08 17:31:16,826 - Failed to fetch users: 404: No users found
+ERROR - local - v1.0.0 - 2025-02-08 17:31:17,756 - Database Error: 500: Internal Server Error
+INFO - local - v1.0.0 - 2025-02-08 17:31:17,861 - Shutting down FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:31:20,450 - Starting FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:31:20,500 - Database connection successful!
+INFO - local - v1.0.0 - 2025-02-08 17:31:26,289 - Fetching all users from the database...
+ERROR - local - v1.0.0 - 2025-02-08 17:35:45,189 - Failed to fetch users: 404: No users found
+ERROR - local - v1.0.0 - 2025-02-08 17:35:48,386 - Database Error: 500: Internal Server Error
+INFO - local - v1.0.0 - 2025-02-08 17:35:48,506 - Shutting down FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:35:51,044 - Starting FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:35:51,090 - Database connection successful!
+INFO - local - v1.0.0 - 2025-02-08 17:35:51,092 - Fetching all users from the database...
+ERROR - local - v1.0.0 - 2025-02-08 17:36:00,905 - Failed to fetch users: 404: No users found
+ERROR - local - v1.0.0 - 2025-02-08 17:36:02,537 - Database Error: 500: Internal Server Error
+INFO - local - v1.0.0 - 2025-02-08 17:36:04,593 - Shutting down FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:36:18,146 - Starting FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:36:18,382 - Database connection successful!
+INFO - local - v1.0.0 - 2025-02-08 17:36:19,618 - Fetching all users from the database...
+ERROR - local - v1.0.0 - 2025-02-08 17:36:44,825 - Failed to fetch users: 404: No users found
+ERROR - local - v1.0.0 - 2025-02-08 17:36:51,695 - Database Error: 500: Internal Server Error
+INFO - local - v1.0.0 - 2025-02-08 17:38:04,584 - Fetching all users from the database...
+ERROR - local - v1.0.0 - 2025-02-08 17:38:32,900 - Database Error: 40 validation errors:
+  {'type': 'missing', 'loc': ('response', 0, 'Id'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106cedd60>}
+  {'type': 'missing', 'loc': ('response', 0, 'userName'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106cedd60>}
+  {'type': 'missing', 'loc': ('response', 0, 'createdAt'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106cedd60>}
+  {'type': 'missing', 'loc': ('response', 0, 'updatedAt'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106cedd60>}
+  {'type': 'missing', 'loc': ('response', 1, 'Id'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106ced8e0>}
+  {'type': 'missing', 'loc': ('response', 1, 'userName'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106ced8e0>}
+  {'type': 'missing', 'loc': ('response', 1, 'createdAt'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106ced8e0>}
+  {'type': 'missing', 'loc': ('response', 1, 'updatedAt'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106ced8e0>}
+  {'type': 'missing', 'loc': ('response', 2, 'Id'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106ceda90>}
+  {'type': 'missing', 'loc': ('response', 2, 'userName'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106ceda90>}
+  {'type': 'missing', 'loc': ('response', 2, 'createdAt'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106ceda90>}
+  {'type': 'missing', 'loc': ('response', 2, 'updatedAt'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106ceda90>}
+  {'type': 'missing', 'loc': ('response', 3, 'Id'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106ced7f0>}
+  {'type': 'missing', 'loc': ('response', 3, 'userName'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106ced7f0>}
+  {'type': 'missing', 'loc': ('response', 3, 'createdAt'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106ced7f0>}
+  {'type': 'missing', 'loc': ('response', 3, 'updatedAt'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106ced7f0>}
+  {'type': 'missing', 'loc': ('response', 4, 'Id'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106cedbe0>}
+  {'type': 'missing', 'loc': ('response', 4, 'userName'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106cedbe0>}
+  {'type': 'missing', 'loc': ('response', 4, 'createdAt'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106cedbe0>}
+  {'type': 'missing', 'loc': ('response', 4, 'updatedAt'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106cedbe0>}
+  {'type': 'missing', 'loc': ('response', 5, 'Id'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106cede80>}
+  {'type': 'missing', 'loc': ('response', 5, 'userName'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106cede80>}
+  {'type': 'missing', 'loc': ('response', 5, 'createdAt'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106cede80>}
+  {'type': 'missing', 'loc': ('response', 5, 'updatedAt'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106cede80>}
+  {'type': 'missing', 'loc': ('response', 6, 'Id'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106cedb80>}
+  {'type': 'missing', 'loc': ('response', 6, 'userName'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106cedb80>}
+  {'type': 'missing', 'loc': ('response', 6, 'createdAt'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106cedb80>}
+  {'type': 'missing', 'loc': ('response', 6, 'updatedAt'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106cedb80>}
+  {'type': 'missing', 'loc': ('response', 7, 'Id'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106ceda60>}
+  {'type': 'missing', 'loc': ('response', 7, 'userName'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106ceda60>}
+  {'type': 'missing', 'loc': ('response', 7, 'createdAt'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106ceda60>}
+  {'type': 'missing', 'loc': ('response', 7, 'updatedAt'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106ceda60>}
+  {'type': 'missing', 'loc': ('response', 8, 'Id'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106cedf10>}
+  {'type': 'missing', 'loc': ('response', 8, 'userName'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106cedf10>}
+  {'type': 'missing', 'loc': ('response', 8, 'createdAt'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106cedf10>}
+  {'type': 'missing', 'loc': ('response', 8, 'updatedAt'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106cedf10>}
+  {'type': 'missing', 'loc': ('response', 9, 'Id'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106cedfa0>}
+  {'type': 'missing', 'loc': ('response', 9, 'userName'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106cedfa0>}
+  {'type': 'missing', 'loc': ('response', 9, 'createdAt'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106cedfa0>}
+  {'type': 'missing', 'loc': ('response', 9, 'updatedAt'), 'msg': 'Field required', 'input': <schema.users.User object at 0x106cedfa0>}
+
+INFO - local - v1.0.0 - 2025-02-08 17:38:58,605 - Shutting down FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:39:01,182 - Starting FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:39:01,232 - Database connection successful!
+INFO - local - v1.0.0 - 2025-02-08 17:40:12,665 - Shutting down FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:40:28,908 - Starting FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:40:29,144 - Database connection successful!
+INFO - local - v1.0.0 - 2025-02-08 17:40:29,211 - Fetching all users from the database...
+ERROR - local - v1.0.0 - 2025-02-08 17:40:47,275 - Error fetching users: 'User' object has no attribute 'to_dict'
+INFO - local - v1.0.0 - 2025-02-08 17:44:27,150 - Starting FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:44:27,784 - Database connection successful!
+INFO - local - v1.0.0 - 2025-02-08 17:44:40,319 - Fetching all users from the database...
+ERROR - local - v1.0.0 - 2025-02-08 17:44:56,710 - Error fetching users: 1 validation error for User
+  Input should be a valid dictionary or instance of User [type=model_type, input_value=<schema.users.User object at 0x105b41640>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.10/v/model_type
+ERROR - local - v1.0.0 - 2025-02-08 17:44:56,710 - Failed to fetch users: 1 validation error for User
+  Input should be a valid dictionary or instance of User [type=model_type, input_value=<schema.users.User object at 0x105b41640>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.10/v/model_type
+ERROR - local - v1.0.0 - 2025-02-08 17:45:03,989 - Database Error: 500: Internal Server Error
+INFO - local - v1.0.0 - 2025-02-08 17:46:43,932 - Fetching all users from the database...
+ERROR - local - v1.0.0 - 2025-02-08 17:47:51,952 - Error fetching users: 1 validation error for User
+  Input should be a valid dictionary or instance of User [type=model_type, input_value=<schema.users.User object at 0x105b43f50>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.10/v/model_type
+ERROR - local - v1.0.0 - 2025-02-08 17:47:51,957 - Failed to fetch users: 1 validation error for User
+  Input should be a valid dictionary or instance of User [type=model_type, input_value=<schema.users.User object at 0x105b43f50>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.10/v/model_type
+ERROR - local - v1.0.0 - 2025-02-08 17:47:53,164 - Database Error: 500: Internal Server Error
+INFO - local - v1.0.0 - 2025-02-08 17:47:53,279 - Shutting down FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:47:55,858 - Starting FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:47:55,931 - Database connection successful!
+INFO - local - v1.0.0 - 2025-02-08 17:47:58,464 - Starting FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:47:58,505 - Database connection successful!
+INFO - local - v1.0.0 - 2025-02-08 17:47:59,575 - Fetching all users from the database...
+ERROR - local - v1.0.0 - 2025-02-08 17:48:06,081 - Error fetching users: 2 validation errors for User
+created_at
+  Input should be a valid string [type=string_type, input_value=datetime.datetime(2025, 2...o=datetime.timezone.utc), input_type=datetime]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+updated_at
+  Input should be a valid string [type=string_type, input_value=datetime.datetime(2025, 2...o=datetime.timezone.utc), input_type=datetime]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+ERROR - local - v1.0.0 - 2025-02-08 17:48:06,086 - Failed to fetch users: 2 validation errors for User
+created_at
+  Input should be a valid string [type=string_type, input_value=datetime.datetime(2025, 2...o=datetime.timezone.utc), input_type=datetime]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+updated_at
+  Input should be a valid string [type=string_type, input_value=datetime.datetime(2025, 2...o=datetime.timezone.utc), input_type=datetime]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+ERROR - local - v1.0.0 - 2025-02-08 17:48:32,727 - Database Error: 500: Internal Server Error
+INFO - local - v1.0.0 - 2025-02-08 17:48:43,725 - Fetching all users from the database...
+ERROR - local - v1.0.0 - 2025-02-08 17:48:43,731 - Error fetching users: 2 validation errors for User
+created_at
+  Input should be a valid string [type=string_type, input_value=datetime.datetime(2025, 2...o=datetime.timezone.utc), input_type=datetime]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+updated_at
+  Input should be a valid string [type=string_type, input_value=datetime.datetime(2025, 2...o=datetime.timezone.utc), input_type=datetime]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+ERROR - local - v1.0.0 - 2025-02-08 17:48:43,731 - Failed to fetch users: 2 validation errors for User
+created_at
+  Input should be a valid string [type=string_type, input_value=datetime.datetime(2025, 2...o=datetime.timezone.utc), input_type=datetime]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+updated_at
+  Input should be a valid string [type=string_type, input_value=datetime.datetime(2025, 2...o=datetime.timezone.utc), input_type=datetime]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+ERROR - local - v1.0.0 - 2025-02-08 17:48:43,732 - Database Error: 500: Internal Server Error
+INFO - local - v1.0.0 - 2025-02-08 17:48:44,350 - Shutting down FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:48:47,081 - Starting FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:48:47,137 - Database connection successful!
+INFO - local - v1.0.0 - 2025-02-08 17:49:16,553 - Shutting down FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:49:21,493 - Starting FastAPI Application...
+INFO - local - v1.0.0 - 2025-02-08 17:49:21,536 - Database connection successful!
+INFO - local - v1.0.0 - 2025-02-08 17:52:47,322 - Fetching all users from the database...
+INFO - local - v1.0.0 - 2025-02-08 17:53:27,745 - Fetching all users from the database...
+INFO - local - v1.0.0 - 2025-02-08 17:53:41,427 - Fetching all users from the database...
+INFO - local - v1.0.0 - 2025-02-08 18:29:46,413 - Shutting down FastAPI Application...
