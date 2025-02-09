@@ -9,6 +9,7 @@ class UserRepository:
     """Repository for User model handling async DB operations."""
 
     @staticmethod
+    @logger.execution_timer
     async def get_all_users(session: AsyncSession):
         """Fetch all users asynchronously"""
         try:

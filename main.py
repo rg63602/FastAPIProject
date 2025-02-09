@@ -24,6 +24,7 @@ app.include_router(users.router, prefix="/api", tags=["Users"])
 
 # Startup event
 @app.on_event("startup")
+@logger.execution_timer
 async def startup():
     """Run this on application startup"""
     logger.info("Starting FastAPI Application...")
@@ -33,12 +34,14 @@ async def startup():
 
 # Shutdown event
 @app.on_event("shutdown")
+@logger.execution_timer
 async def shutdown():
     """Run this on application shutdown"""
     logger.info("Shutting down FastAPI Application...")
 
 # Root endpoint
 @app.get("/")
+@logger.execution_timer
 async def health_check():
     """Check if the API is running"""
     return {"message": "FastAPI is up and running 🚀"}

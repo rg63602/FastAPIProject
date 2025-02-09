@@ -11,6 +11,7 @@ from utility.logger.logger import logger
 router = APIRouter(prefix="/users", tags=["Users"])
 
 @router.get("/", response_model=List[UserModel])
+@logger.execution_timer
 async def get_users(db: AsyncSession = Depends(get_db)):
     """API to fetch all users asynchronously."""
     try:
