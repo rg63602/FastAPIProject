@@ -11,3 +11,14 @@ class User(BaseModel):
     created_at: datetime
     updated_by: Optional[str] = None
     updated_at: datetime
+
+class UserCreate(BaseModel):
+    user_name: str
+    email: str
+    created_by: Optional[str] = None
+    updated_by: Optional[str] = None
+
+class UserUpdate(BaseModel):
+    user_name: Optional[str] = None
+    email: Optional[str] = None
+    updated_by: Optional[str] = None

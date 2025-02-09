@@ -5,10 +5,7 @@ Accept: application/json
 
 ###
 
-GET http://127.0.0.1:8000/error
+GET http://127.0.0.1:8000/api/users/
 Accept: application/json
 
 ###
-
-GET http://127.0.0.1:8000/users
-Accept: application/json

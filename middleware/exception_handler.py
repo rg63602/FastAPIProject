@@ -5,7 +5,7 @@ from fastapi.responses import JSONResponse
 
 from config.messages import Message
 from config.status_code import StatusCode
-from utility.error_response import ErrorResponse
+from model.error_response import ErrorResponse
 from utility.exception_handler.exception import CustomException
 from utility.logger.logger import logger
 
@@ -19,6 +19,7 @@ class ExceptionHandler:
         request_id = str(uuid.uuid4())
         error_response = ErrorResponse(
             status_code=exc.status_code,
+            error_code=exc.error_code,
             message=exc.message,
             request_id=request_id,
             details=str(exc.details)
@@ -34,6 +35,7 @@ class ExceptionHandler:
 
         error_response = ErrorResponse(
             status_code=StatusCode.SERVER_ERROR,
+            error_code=StatusCode.SERVER_ERROR,
             message=Message.INTERNAL_ERROR,
             request_id=request_id,
             details=str(exc)  # Optionally log full trace for debugging

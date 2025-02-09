@@ -6,5 +6,3 @@ APP_AUTHOR = "Rishabh Kumar"
 
 # POSTGRES DATABASE URLs
 FASTAPI_MASTERY_DB = "postgresql+asyncpg://postgres:root@localhost:5432/fastapi_mastery"
-
-
