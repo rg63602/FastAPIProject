@@ -13,6 +13,6 @@ class User(Base):
     user_name = Column(Text, nullable=False)
     email = Column(Text, nullable=False, unique=True)
     created_by = Column(Text, nullable=True)
-    created_at = Column(TIMESTAMP(timezone=True), server_default=func.now())
+    created_at = Column(TIMESTAMP(timezone=True), server_default=func.now(), onupdate=None)
     updated_by = Column(Text, nullable=True)
     updated_at = Column(TIMESTAMP(timezone=True), server_default=func.now(), onupdate=func.now())

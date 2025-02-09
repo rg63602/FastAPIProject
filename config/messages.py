@@ -1,0 +1,13 @@
+class Message:
+    SUCCESS = "Success"
+    ERROR = "Error"
+    WARNING = "Warning"
+    INFO = "Info"
+    DEBUG = "Debug"
+    INVALID_INPUT = "Invalid input data"
+    UNAUTHORIZED_ACCESS = "Unauthorized access"
+    INTERNAL_ERROR = "An unexpected error occurred"
+    DATABASE_FAILURE = "Database operation failed"
+    VALIDATION_FAILED = "Input validation failed"
+    USER_NOT_FOUND = "User not found"
+    USER_ALREADY_EXISTS = "User already exists"
